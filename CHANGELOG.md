@@ -1,3 +1,7 @@
+## 2024.11.1-takejohn.1.0
+### Client
+- Enhance: 開発中のAiScriptを導入
+
 ## 2024.11.1
 
 ### General
